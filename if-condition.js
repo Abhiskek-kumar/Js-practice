@@ -32,6 +32,7 @@ if (hour < 18) {
 let text = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm";
 console.log(text.length);//52
 
-let text1 = "D";
 
+//charCodeAt ASII
+let text1 = "D";
 console.log(text1.charCodeAt(0));
