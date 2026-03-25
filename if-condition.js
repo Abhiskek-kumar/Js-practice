@@ -4,7 +4,7 @@
 let age = 18 ;
  if (age >= 18 ){
     console.log("You can vote ")
- };
+ }; //You can vote 
 
 //  👉 If age >= 18 is true → the message will be printed
 
@@ -25,4 +25,13 @@ if (hour < 18) {
     console.log("Good day");
 } else {
     console.log("Good evening");
-}
+};//Good evening
+
+
+//The length property returns the length of a string:
+let text = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm";
+console.log(text.length);//52
+
+let text1 = "D";
+
+console.log(text1.charCodeAt(0));
