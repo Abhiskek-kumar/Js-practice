@@ -16,3 +16,13 @@ let age1 = 15;
  };
 
  //  👉 If it is false → nothing will happen
+
+
+
+
+ let hour = 20;
+if (hour < 18) {
+    console.log("Good day");
+} else {
+    console.log("Good evening");
+}
