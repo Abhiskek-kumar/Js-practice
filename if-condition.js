@@ -7,4 +7,12 @@ let age = 18 ;
  };
 
 //  👉 If age >= 18 is true → the message will be printed
-//  👉 If it is false → nothing will happen
+
+
+
+let age1 = 15;
+ if (age1 >= 18 ){ 
+    console.log("you can vote")
+ };
+
+ //  👉 If it is false → nothing will happen
